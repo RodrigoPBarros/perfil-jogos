@@ -66,7 +66,7 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos como:
 
 ## 📸 Preview
 
-*(adicione aqui uma imagem ou print do projeto depois)*
+![alt text](assets/Preview.png)
 
 ---
 
