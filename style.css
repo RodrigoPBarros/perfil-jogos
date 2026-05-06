@@ -93,6 +93,7 @@ main {
 
 .card-jogo:hover img {
     transform:  scale(1.05);
+    filter: brightness(1.1);
 }
 
 .jogo-titulo {
@@ -152,7 +153,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #4f8cff;
+    color: #ff3b3b;
 }
 
 @media (max-width: 600px) {
