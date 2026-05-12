@@ -75,6 +75,11 @@ main {
     box-shadow: -5px 5px 20px rgba(0, 0, 0, 0.5);
 }
 
+.card-jogo:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(255, 59, 59, 0.4);
+}
+
 .card-jogo img {
     width: 100px;
     height: 150px;
